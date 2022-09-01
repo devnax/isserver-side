@@ -3,6 +3,10 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/devnax/isserver-side.git"
+  },
   "files": [
     "dist",
     "src"

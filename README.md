@@ -2,9 +2,9 @@
 > Check the window is exists or not
 
 ```js
-import isClientSide from 'isclient-side'
+import {isServer, getWindow} from 'isclient-side'
 
-if(isClientSide){
+if(isServer){
   // do somthing
 }
 
